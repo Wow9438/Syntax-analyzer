@@ -1,4 +1,4 @@
-# Syntax-analyzer-
+# Syntax-analyzer
 syntax analyzer using Yacc for a java like language which has only methods(analogous to functions) and classes
 
 1) Change the directory to where lex file and parser file(Yacc) are
